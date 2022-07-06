@@ -1,3 +1,15 @@
+# Live Demo of Discord Clone 🔥
+View the app live,https://discord-clone-ten-rust.vercel.app/
+
+# Discord Clone Features 🎮
+Login System
+LogOut System
+Add channels
+Realtime Chat
+Scroll to bottom
+Emoji Chat
+Good UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
