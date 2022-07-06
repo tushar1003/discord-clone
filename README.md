@@ -2,13 +2,27 @@
 View the app live,https://discord-clone-ten-rust.vercel.app/
 
 # Discord Clone Features 🎮
-Login System
-LogOut System
-Add channels
-Realtime Chat
-Scroll to bottom
-Emoji Chat
-Good UI
+### Login System
+### LogOut System
+### Add channels
+### Realtime Chat
+### Scroll to bottom
+### Emoji Chat
+### Good UI
+### FireBase Authentication
+
+## Landing Page
+
+![image](https://user-images.githubusercontent.com/91830386/177641881-b1f55a0c-5913-4586-b981-c014ff656798.png)
+
+## FireBase Authentication
+
+![image](https://user-images.githubusercontent.com/91830386/177642381-29f951c8-f97f-4f85-9cd5-1d09640a30a6.png)
+
+## Servers Page
+
+![image](https://user-images.githubusercontent.com/91830386/177642506-4f684665-2392-43e2-bc5c-ac3de85292db.png)
+
 
 # Getting Started with Create React App
 
